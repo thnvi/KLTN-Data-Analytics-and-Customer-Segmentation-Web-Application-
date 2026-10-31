@@ -55,4 +55,4 @@ http://localhost:8000/api/dashboard?model=prophet&genre=all&year=2023&month=all&
 
 ## Ghi chú dùng trong luận
 
-Dữ liệu catalog gốc Netflix kết thúc chủ yếu ở 2021. Để phục vụ phân tích 2020–2025, hệ thống bổ sung các bản ghi minh bạch từ Netflix Top 10 Weekly và Netflix Engagement Report. Các bản ghi bổ sung được đánh dấu bằng cột `data_source`, không giả mạo là dữ liệu catalog gốc.
+Dữ liệu catalog gốc Netflix kết thúc chủ yếu ở 2021. Để phục vụ phân tích 2020–2025, hệ thống đã bổ sung các bản ghi minh bạch từ Netflix Top 10 Weekly và Netflix Engagement Report. Các bản ghi bổ sung được đánh dấu bằng cột `data_source`, không giả mạo là dữ liệu catalog gốc.
